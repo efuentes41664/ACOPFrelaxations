@@ -1,1 +1,7 @@
 
+Implementation of the paper
+
+Polynomial Optimization Based Schemes for Solving AC Optimal Power Flow Problems
+
+presented at EURO2021 conference by Edgar Fuentes. 
+The main relaxation can be executed using the runRelaxation.jl file, introducing the name of the testcase.
